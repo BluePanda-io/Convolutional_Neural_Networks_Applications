@@ -7,5 +7,5 @@ You can find everything on the two JupyterNotebooks"
 ## In this project it was developed 
 This applicaitions were my favorite part of the course teaching me how to use frameworks to create real world projects using Deep Learning
 
-## Results of the Project 
+
 <img src="Images/example.png" width="850">
